@@ -13,13 +13,14 @@
         </v-carousel-item>
       </div>
       <v-row v-else style="height: 100%" class="paper-card" no-gutters>
-        <v-col cols="335px" style="height: 100vh; z-index: 2" class="pt-1 paper-card">
+        <v-col cols="auto" style="height: 100vh; z-index: 2" class="pt-1 paper-card">
           <Label
             v-for="(label, i) in labels"
             :key="`label-${i}`"
             v-show="carousel === i"
             :title="label.title"
             :description="label.description"
+            class="px-1"
           />
         </v-col>
         <v-col>
