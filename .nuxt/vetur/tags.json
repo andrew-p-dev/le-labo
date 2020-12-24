@@ -1,0 +1,32 @@
+{
+  "Label": {
+    "description": "Auto imported from components/Label/Label.vue"
+  },
+  "LazyLabel": {
+    "description": "Auto imported from components/Label/Label.vue"
+  },
+  "Soap": {
+    "description": "Auto imported from components/Soap/Soap.vue"
+  },
+  "LazySoap": {
+    "description": "Auto imported from components/Soap/Soap.vue"
+  },
+  "Rainy": {
+    "description": "Auto imported from components/icons/Rainy.vue"
+  },
+  "LazyRainy": {
+    "description": "Auto imported from components/icons/Rainy.vue"
+  },
+  "CircleSmall": {
+    "description": "Auto imported from components/icons/circle-small.vue"
+  },
+  "LazyCircleSmall": {
+    "description": "Auto imported from components/icons/circle-small.vue"
+  },
+  "ShelfLife": {
+    "description": "Auto imported from components/icons/shelf-life.vue"
+  },
+  "LazyShelfLife": {
+    "description": "Auto imported from components/icons/shelf-life.vue"
+  }
+}
