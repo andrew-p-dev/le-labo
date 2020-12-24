@@ -3,10 +3,10 @@
     <v-carousel :continuous="true" v-model="carousel" hide-delimiters next-icon="$menu-right" :height="carouselHeight">
         <div v-if="$vuetify.breakpoint.smAndDown">
           <v-carousel-item>
-            <v-img :height="carouselHeight" :src="require('@/static/brown.jpg')" />
+            <v-img :height="carouselHeight" :src="require('@/static/brown.jpg')" :lazy-src="require('@/static/thumbnails/brown.jpg')" />
           </v-carousel-item>
           <v-carousel-item>
-            <v-img :height="carouselHeight" :src="require('@/static/transparent.jpg')" />
+            <v-img :height="carouselHeight" :src="require('@/static/transparent.jpg')" :lazy-src="require('@/static/thumbnails/transparent.jpg')" />
           </v-carousel-item>
           <v-carousel-item>
             <v-img :height="carouselHeight" :src="require('@/static/black.jpg')" />
@@ -24,10 +24,10 @@
           </v-col>
           <v-col>
             <v-carousel-item>
-              <v-img max-width="calc(100vw - 340px)" min-height="100vh" :src="require('@/static/brown.jpg')" />
+              <v-img max-width="calc(100vw - 340px)" min-height="100vh" :src="require('@/static/brown.jpg')" :lazy-src="require('@/static/thumbnails/brown.jpg')" />
             </v-carousel-item>
             <v-carousel-item>
-              <v-img max-width="calc(100vw - 340px)" min-height="100vh" :src="require('@/static/transparent.jpg')" />
+              <v-img max-width="calc(100vw - 340px)" min-height="100vh" :src="require('@/static/transparent.jpg')" :lazy-src="require('@/static/thumbnails/transparent.jpg')" />
             </v-carousel-item>
             <v-carousel-item>
               <v-img max-width="calc(100vw - 340px)" min-height="100vh" :src="require('@/static/black.jpg')" />
