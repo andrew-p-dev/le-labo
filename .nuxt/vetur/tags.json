@@ -23,6 +23,12 @@
   "LazyCircleSmall": {
     "description": "Auto imported from components/icons/circle-small.vue"
   },
+  "MenuRight": {
+    "description": "Auto imported from components/icons/menu-right.vue"
+  },
+  "LazyMenuRight": {
+    "description": "Auto imported from components/icons/menu-right.vue"
+  },
   "ShelfLife": {
     "description": "Auto imported from components/icons/shelf-life.vue"
   },

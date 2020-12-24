@@ -23,7 +23,7 @@
     {
       "hid": "description",
       "name": "description",
-      "content": "> Boilerplate project for new Vue projects using [Vue CLI 3](https://github.com/vuejs.vue-cli). It aims to provide sane defaults and reduce cognitive load of starting new vue based frontend project."
+      "content": "> Soap showcase site"
     },
     {
       "hid": "og:type",
@@ -47,7 +47,7 @@
       "hid": "og:description",
       "name": "og:description",
       "property": "og:description",
-      "content": "> Boilerplate project for new Vue projects using [Vue CLI 3](https://github.com/vuejs.vue-cli). It aims to provide sane defaults and reduce cognitive load of starting new vue based frontend project."
+      "content": "> Soap showcase site"
     }
   ],
   "link": [
@@ -57,7 +57,7 @@
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.dd4a0cd6.json",
+      "href": "/_nuxt/manifest.95a39ccc.json",
       "hid": "manifest"
     }
   ],

@@ -24,39 +24,15 @@ export const routerOptions = {
   routes: [{
     path: "/de",
     component: _b09659e0,
-    name: "index___de___en"
-  }, {
-    path: "/de",
-    component: _b09659e0,
-    name: "index___en___de"
+    name: "index___de"
   }, {
     path: "/fr",
     component: _b09659e0,
-    name: "index___fr___en"
-  }, {
-    path: "/fr",
-    component: _b09659e0,
-    name: "index___en___fr"
-  }, {
-    path: "/de/de",
-    component: _b09659e0,
-    name: "index___de___de"
-  }, {
-    path: "/de/fr",
-    component: _b09659e0,
-    name: "index___fr___de"
-  }, {
-    path: "/fr/de",
-    component: _b09659e0,
-    name: "index___de___fr"
-  }, {
-    path: "/fr/fr",
-    component: _b09659e0,
-    name: "index___fr___fr"
+    name: "index___fr"
   }, {
     path: "/",
     component: _b09659e0,
-    name: "index___en___en"
+    name: "index___en"
   }],
 
   fallback: false

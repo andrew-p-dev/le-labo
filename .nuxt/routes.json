@@ -1,62 +1,20 @@
 [
   {
-    "name": "index___de___en",
+    "name": "index___de",
     "path": "/de",
     "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
     "chunkName": "pages/index",
     "_name": "_b09659e0"
   },
   {
-    "name": "index___en___de",
-    "path": "/de",
-    "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b09659e0"
-  },
-  {
-    "name": "index___fr___en",
+    "name": "index___fr",
     "path": "/fr",
     "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
     "chunkName": "pages/index",
     "_name": "_b09659e0"
   },
   {
-    "name": "index___en___fr",
-    "path": "/fr",
-    "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b09659e0"
-  },
-  {
-    "name": "index___de___de",
-    "path": "/de/de",
-    "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b09659e0"
-  },
-  {
-    "name": "index___fr___de",
-    "path": "/de/fr",
-    "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b09659e0"
-  },
-  {
-    "name": "index___de___fr",
-    "path": "/fr/de",
-    "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b09659e0"
-  },
-  {
-    "name": "index___fr___fr",
-    "path": "/fr/fr",
-    "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_b09659e0"
-  },
-  {
-    "name": "index___en___en",
+    "name": "index___en",
     "path": "/",
     "component": "/Users/andrewpersic/Downloads/le-labo/pages/index.vue",
     "chunkName": "pages/index",

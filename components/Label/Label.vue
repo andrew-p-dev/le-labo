@@ -1,5 +1,5 @@
 <template>
-  <v-row class="paper-card black--text" no-gutters>
+  <v-row class="paper-card black--text unselectable" no-gutters>
     <v-col class="d-flex justify-end">
       <v-divider class="my-0" vertical />
     </v-col>

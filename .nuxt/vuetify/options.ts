@@ -4,6 +4,7 @@ import colors from 'vuetify/es5/util/colors'
 
 import Rainy from '@/components/icons/Rainy.vue'
 import CircleSmall from '@/components/icons/circle-small.vue'
+import MenuRight from '@/components/icons/menu-right.vue'
 import ShelfLife from '@/components/icons/shelf-life.vue'
 
 export default (ctx: Context): Options => {
@@ -44,6 +45,9 @@ export default (ctx: Context): Options => {
         },
         'circle-small': {
           component: CircleSmall,
+        },
+        'menu-right': {
+          component: MenuRight,
         },
         'shelf-life': {
           component: ShelfLife,
