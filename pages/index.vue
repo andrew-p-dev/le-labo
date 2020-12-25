@@ -20,6 +20,7 @@
             v-show="carousel === i"
             :title="label.title"
             :description="label.description"
+            :notes="label.notes"
             class="px-1"
           />
         </v-col>
@@ -37,6 +38,7 @@
         v-show="carousel === i"
         :title="label.title"
         :description="label.description"
+        :notes="label.notes"
       />
     </div>
   </div>
@@ -57,18 +59,22 @@ export default class Dashboard extends Vue {
     {
       title: 'Clou 20',
       description: ['nettoyage', 'exfoliating bar'],
+      notes: 'A warm and complex aroma combining Citrus, Clove and Cedar Atlas oils. A Coffee ground scrub paired with fine cocoa makes this a more festive exfoliating bar.',
     },
     {
       title: 'Provence 22',
       description: ['suspense', 'lavender suspension'],
+      notes: 'A stimulating, Spearmint-infused blend balanced with warm Rosemary and suspended lavender; the perfect accompaniment to musing over the new year.',
     },
     {
       title: 'Noire 8',
       description: ['fumée', 'sable creamy wash'],
+      notes: 'A calming blend of citrus aromas, including Bergamot Rind; the perfect antidote to stress and hurriedness.',
     },
     {
       title: 'Tudor 85',
       description: ['à base de plantes', 'herbacious wash'],
+      notes: 'A floral bouquet with a mix of rose, lavender and rosemary to create a herbacious, yuletide aroma with exfoliating particles.',
     },
   ]
 
