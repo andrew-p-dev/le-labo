@@ -1,6 +1,6 @@
-# Le Labo
+# Soap showcase site (stolen look from Le Labo)
 
-> Soap showcase site
+> I made this when I had a go at making soap for christmas one year. It just shows the 4 soaps I made.
 
 ## Build & Serve
 
